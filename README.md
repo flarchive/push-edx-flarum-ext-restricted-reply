@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of push-edx/flarum-ext-restricted-reply.** Not for installation: use [Packagist](https://packagist.org/packages/push-edx/flarum-ext-restricted-reply) or the [upstream repository](https://github.com/Push-EDX/flarum-ext-restricted-reply).
 
-**0** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/push-edx-flarum-ext-restricted-reply/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**4** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/push-edx-flarum-ext-restricted-reply/tree/archive/v0.1.3) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-05-13 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-restricted-reply/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-restricted-reply/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-03-02 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-restricted-reply/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-03-02 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/push-edx-flarum-ext-restricted-reply/tree/archive/v0.1.3) |
 
 Catalog entry: [packages/push-edx-flarum-ext-restricted-reply.json](https://github.com/flarchive/archive-index/blob/main/packages/push-edx-flarum-ext-restricted-reply.json)
 
